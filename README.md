@@ -1,31 +1,73 @@
-[![MasterHead](https://i.pinimg.com/564x/50/d5/f4/50d5f4e6d5656c0bbc57c0c32e90b6b5.jpg)]
-<h1 align="center">Hi 👋, I'm Faithful Aborisade</h1>
-<h3 align="center">A aspiring fullstack developer, currently a student a Technological University of Shannon Midwest</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<div align="center">
+  
+# Faithful Aborisade
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faithfulaborisade1&label=Profile%20views&color=0e75b6&style=flat" alt="faithfulaborisade1" /> </p>
+### Aspiring Full-Stack Developer
 
-<p align="left"> <a href="https://twitter.com/valdavita1" target="blank"><img src="https://img.shields.io/twitter/follow/valdavita1?logo=twitter&style=for-the-badge" alt="valdavita1" /></a> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/valdavita1?style=social)](https://twitter.com/valdavita1)
+[![Profile Views](https://komarev.com/ghpvc/?username=faithfulaborisade1&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/faithfulaborisade1)
 
-- 🔭 I’m currently working on **Food Delivery APP**
+*Software Development Student at Technological University of Shannon Midwest*
 
-- 🌱 I’m currently learning **Java Script, Java, HTML,REST,Type Script**
+</div>
 
-- 💬 Ask me about **java,html,css**
+---
 
-- 📫 How to reach me **futuretechleader123@gmail.com**
+### 👋 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/valdavita1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="valdavita1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codegess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codegess" height="30" width="40" /></a>
-</p>
+I'm a passionate developer focused on building practical, user-centered applications. Currently diving deep into full-stack development while pursuing my degree.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🔭 **Currently Building:** A Food Delivery App
+- 🌱 **Learning:** JavaScript, TypeScript, Java, REST APIs
+- 💬 **Ask Me About:** Java, HTML, CSS
+- 📫 **Reach Me:** [futuretechleader123@gmail.com](mailto:futuretechleader123@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faithfulaborisade1&show_icons=true&locale=en&layout=compact" alt="faithfulaborisade1" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faithfulaborisade1&show_icons=true&locale=en" alt="faithfulaborisade1" /></p>
+### 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faithfulaborisade1&" alt="faithfulaborisade1" /></p>
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=faithfulaborisade1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithfulaborisade1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faithfulaborisade1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/valdavita1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/codegess)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:futuretechleader123@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+*"Building the future, one line of code at a time."*
+
+</div>
