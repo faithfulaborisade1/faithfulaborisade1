@@ -2,12 +2,10 @@
   
 # Faithful Aborisade
 
-### Aspiring Full-Stack Developer
+### Console Experience Engineer | Full-Stack Developer | SaaS Builder
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/valdavita1?style=social)](https://twitter.com/valdavita1)
 [![Profile Views](https://komarev.com/ghpvc/?username=faithfulaborisade1&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/faithfulaborisade1)
-
-*Software Development Student at Technological University of Shannon Midwest*
 
 </div>
 
@@ -15,29 +13,48 @@
 
 ### 👋 About Me
 
-I'm a passionate developer focused on building practical, user-centered applications. Currently diving deep into full-stack development while pursuing my degree.
+I'm a Console Experience Engineer who specializes in building scalable SaaS products and full-stack applications. I've delivered multiple production-ready solutions for clients, from concept to deployment.
 
-- 🔭 **Currently Building:** A Food Delivery App
-- 🌱 **Learning:** JavaScript, TypeScript, Java, REST APIs
-- 💬 **Ask Me About:** Java, HTML, CSS
+- 🚀 **What I Do:** Build scalable SaaS services and full-stack applications
+- 💼 **Current Role:** Console Experience Engineer
+- 🛠️ **Experience:** Delivered multiple full-stack projects for clients across various industries
 - 📫 **Reach Me:** [futuretechleader123@gmail.com](mailto:futuretechleader123@gmail.com)
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+**Frontend**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & Databases**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-</div>
+---
+
+### 💼 What I Build
+
+- **SaaS Products** — Scalable, production-ready software-as-a-service applications
+- **Full-Stack Web Apps** — End-to-end solutions from database design to polished UI
+- **Client Solutions** — Custom applications tailored to business needs
 
 ---
 
@@ -54,7 +71,7 @@ I'm a passionate developer focused on building practical, user-centered applicat
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Let's Connect
 
 <div align="center">
 
@@ -68,6 +85,6 @@ I'm a passionate developer focused on building practical, user-centered applicat
 
 <div align="center">
   
-*"Building the future, one line of code at a time."*
+**Open to collaborations and interesting projects.**
 
 </div>
